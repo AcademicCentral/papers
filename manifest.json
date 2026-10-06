@@ -1640,6 +1640,2286 @@
       "label": "Paper 2",
       "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2025-november/technical-sciences/paper-2-question-paper.pdf",
       "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2025-november/technical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/accounting/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/accounting/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/accounting/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/accounting/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-management-practices",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/agricultural-management-practices/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/agricultural-management-practices/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/agricultural-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/agricultural-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/agricultural-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/agricultural-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-technology",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/agricultural-technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/agricultural-technology/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/business-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/business-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/business-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/business-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Civil Services",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/civil-technology/paper-1-civil-services-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/civil-technology/paper-1-civil-services-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Construction",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/civil-technology/paper-1-construction-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/civil-technology/paper-1-construction-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Woodworking",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/civil-technology/paper-1-woodworking-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/civil-technology/paper-1-woodworking-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/economics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/economics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/economics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/economics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Digital Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/electrical-technology/paper-1-digital-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/electrical-technology/paper-1-digital-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/electrical-technology/paper-1-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/electrical-technology/paper-1-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Power Systems",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/electrical-technology/paper-1-power-systems-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/electrical-technology/paper-1-power-systems-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/egd/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/egd/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/egd/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/egd/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/english-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/english-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/english-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/english-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/english-fal/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/english-fal/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/english-hl/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/english-hl/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/english-hl/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/english-hl/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/english-hl/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/english-hl/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "geography",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/geography/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/geography/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "geography",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/geography/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/geography/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/history/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/history/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/history/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/history/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "life-sciences",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/life-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/life-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "life-sciences",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/life-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/life-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mathematical-literacy/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mathematical-literacy/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mathematical-literacy/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mathematical-literacy/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematics",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematics",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Automotive",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mechanical-technology/paper-1-automotive-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mechanical-technology/paper-1-automotive-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Fitting and Machining",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mechanical-technology/paper-1-fitting-and-machining-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mechanical-technology/paper-1-fitting-and-machining-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Welding and Metalwork",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mechanical-technology/paper-1-welding-and-metalwork-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/mechanical-technology/paper-1-welding-and-metalwork-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "physical-sciences",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/physical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/physical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "physical-sciences",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/physical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/physical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/religion-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/religion-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/religion-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/religion-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/technical-mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/technical-mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/technical-mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/technical-mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/technical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/technical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/technical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/technical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "tourism",
+      "year": 2022,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/tourism/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2022-june/tourism/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/accounting/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/accounting/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/accounting/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/accounting/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-management-practices",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/agricultural-management-practices/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/agricultural-management-practices/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/agricultural-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/agricultural-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/agricultural-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/agricultural-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-technology",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/agricultural-technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/agricultural-technology/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/business-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/business-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/business-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/business-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Civil Services",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/civil-technology/paper-1-civil-services-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/civil-technology/paper-1-civil-services-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Construction",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/civil-technology/paper-1-construction-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/civil-technology/paper-1-construction-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Woodworking",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/civil-technology/paper-1-woodworking-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/civil-technology/paper-1-woodworking-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/economics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/economics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/economics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/economics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Digital Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/electrical-technology/paper-1-digital-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/electrical-technology/paper-1-digital-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/electrical-technology/paper-1-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/electrical-technology/paper-1-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Power Systems",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/electrical-technology/paper-1-power-systems-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/electrical-technology/paper-1-power-systems-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/egd/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/egd/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/egd/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/egd/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/english-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/english-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/english-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/english-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/english-fal/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/english-fal/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/english-hl/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/english-hl/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/english-hl/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/english-hl/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/english-hl/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/english-hl/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "geography",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/geography/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/geography/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "geography",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/geography/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/geography/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/history/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/history/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/history/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/history/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "life-sciences",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/life-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/life-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "life-sciences",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/life-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/life-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mathematical-literacy/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mathematical-literacy/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mathematical-literacy/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mathematical-literacy/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematics",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematics",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Automotive",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mechanical-technology/paper-1-automotive-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mechanical-technology/paper-1-automotive-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Fitting and Machining",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mechanical-technology/paper-1-fitting-and-machining-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mechanical-technology/paper-1-fitting-and-machining-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Welding and Metalwork",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mechanical-technology/paper-1-welding-and-metalwork-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/mechanical-technology/paper-1-welding-and-metalwork-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "physical-sciences",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/physical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/physical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "physical-sciences",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/physical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/physical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/religion-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/religion-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/religion-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/religion-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/technical-mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/technical-mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/technical-mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/technical-mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/technical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/technical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/technical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/technical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "tourism",
+      "year": 2023,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/tourism/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-june/tourism/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/accounting/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/accounting/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/accounting/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/accounting/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-management-practices",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/agricultural-management-practices/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/agricultural-management-practices/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/agricultural-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/agricultural-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/agricultural-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/agricultural-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-technology",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/agricultural-technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/agricultural-technology/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/business-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/business-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/business-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/business-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Civil Services",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/civil-technology/paper-1-civil-services-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/civil-technology/paper-1-civil-services-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Construction",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/civil-technology/paper-1-construction-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/civil-technology/paper-1-construction-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Woodworking",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/civil-technology/paper-1-woodworking-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/civil-technology/paper-1-woodworking-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/economics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/economics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/economics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/economics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Digital Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/electrical-technology/paper-1-digital-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/electrical-technology/paper-1-digital-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/electrical-technology/paper-1-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/electrical-technology/paper-1-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Power Systems",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/electrical-technology/paper-1-power-systems-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/electrical-technology/paper-1-power-systems-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/egd/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/egd/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/egd/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/egd/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/english-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/english-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/english-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/english-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/english-fal/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/english-fal/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/english-hl/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/english-hl/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/english-hl/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/english-hl/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/english-hl/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/english-hl/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "geography",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/geography/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/geography/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "geography",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/geography/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/geography/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/history/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/history/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/history/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/history/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "life-sciences",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/life-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/life-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "life-sciences",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/life-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/life-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mathematical-literacy/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mathematical-literacy/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mathematical-literacy/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mathematical-literacy/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematics",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematics",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Automotive",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mechanical-technology/paper-1-automotive-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mechanical-technology/paper-1-automotive-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Fitting and Machining",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mechanical-technology/paper-1-fitting-and-machining-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mechanical-technology/paper-1-fitting-and-machining-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Welding and Metalwork",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mechanical-technology/paper-1-welding-and-metalwork-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/mechanical-technology/paper-1-welding-and-metalwork-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "physical-sciences",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/physical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/physical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "physical-sciences",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/physical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/physical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/religion-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/religion-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/religion-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/religion-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/technical-mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/technical-mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/technical-mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/technical-mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/technical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/technical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/technical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/technical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "tourism",
+      "year": 2024,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/tourism/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-june/tourism/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/accounting/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/accounting/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/accounting/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/accounting/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-management-practices",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/agricultural-management-practices/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/agricultural-management-practices/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/agricultural-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/agricultural-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/agricultural-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/agricultural-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-technology",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/agricultural-technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/agricultural-technology/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/business-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/business-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/business-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/business-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Civil Services",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/civil-technology/paper-1-civil-services-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/civil-technology/paper-1-civil-services-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Construction",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/civil-technology/paper-1-construction-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/civil-technology/paper-1-construction-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Woodworking",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/civil-technology/paper-1-woodworking-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/civil-technology/paper-1-woodworking-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/economics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/economics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/economics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/economics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Digital Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/electrical-technology/paper-1-digital-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/electrical-technology/paper-1-digital-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/electrical-technology/paper-1-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/electrical-technology/paper-1-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Power Systems",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/electrical-technology/paper-1-power-systems-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/electrical-technology/paper-1-power-systems-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/egd/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/egd/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/egd/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/egd/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/english-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/english-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/english-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/english-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/english-fal/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/english-fal/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/english-hl/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/english-hl/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/english-hl/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/english-hl/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/english-hl/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/english-hl/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "geography",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/geography/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/geography/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "geography",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/geography/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/geography/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/history/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/history/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/history/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/history/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "life-sciences",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/life-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/life-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "life-sciences",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/life-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/life-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mathematical-literacy/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mathematical-literacy/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mathematical-literacy/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mathematical-literacy/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematics",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematics",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Automotive",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mechanical-technology/paper-1-automotive-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mechanical-technology/paper-1-automotive-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Fitting and Machining",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mechanical-technology/paper-1-fitting-and-machining-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mechanical-technology/paper-1-fitting-and-machining-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Welding and Metalwork",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mechanical-technology/paper-1-welding-and-metalwork-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/mechanical-technology/paper-1-welding-and-metalwork-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "physical-sciences",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/physical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/physical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "physical-sciences",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/physical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/physical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/religion-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/religion-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/religion-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/religion-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/technical-mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/technical-mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/technical-mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/technical-mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/technical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/technical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/technical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/technical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "tourism",
+      "year": 2025,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/tourism/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-june/tourism/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/accounting/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/accounting/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/accounting/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/accounting/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-management-practices",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/agricultural-management-practices/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/agricultural-management-practices/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/agricultural-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/agricultural-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/agricultural-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/agricultural-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-technology",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/agricultural-technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/agricultural-technology/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/business-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/business-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/business-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/business-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Construction",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/civil-technology/paper-1-construction-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/civil-technology/paper-1-construction-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Woodworking",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/civil-technology/paper-1-woodworking-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/civil-technology/paper-1-woodworking-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/economics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/economics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/economics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/economics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Digital Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/electrical-technology/paper-1-digital-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/electrical-technology/paper-1-digital-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/electrical-technology/paper-1-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/electrical-technology/paper-1-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Power Systems",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/electrical-technology/paper-1-power-systems-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/electrical-technology/paper-1-power-systems-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/egd/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/egd/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/egd/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/egd/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-fal/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-fal/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-hl/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-hl/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-hl/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-hl/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-hl/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-hl/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "geography",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/geography/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/geography/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "geography",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/geography/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/geography/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/history/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/history/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/history/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/history/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "life-sciences",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/life-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/life-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "life-sciences",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/life-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/life-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mathematical-literacy/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mathematical-literacy/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mathematical-literacy/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mathematical-literacy/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematics",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematics",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Automotive",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mechanical-technology/paper-1-automotive-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mechanical-technology/paper-1-automotive-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Fitting and Machining",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mechanical-technology/paper-1-fitting-and-machining-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mechanical-technology/paper-1-fitting-and-machining-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 3,
+      "label": "Welding and Metalwork",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mechanical-technology/paper-1-welding-and-metalwork-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/mechanical-technology/paper-1-welding-and-metalwork-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "physical-sciences",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/physical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/physical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "physical-sciences",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/physical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/physical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/religion-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/religion-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/religion-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/religion-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/technical-mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/technical-mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/technical-mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/technical-mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/technical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/technical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/technical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/technical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "tourism",
+      "year": 2026,
+      "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/tourism/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/tourism/paper-1-memo.pdf"
     }
   ]
 }
