@@ -3656,6 +3656,16 @@
       "subjectId": "english-fal",
       "year": 2026,
       "session": "June",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-fal",
+      "year": 2026,
+      "session": "June",
       "paperNumber": 2,
       "label": "Paper 2",
       "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/english-fal/paper-2-question-paper.pdf",
@@ -3920,6 +3930,1036 @@
       "label": "Paper 1",
       "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/tourism/paper-1-question-paper.pdf",
       "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2026-june/tourism/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/accounting/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/accounting/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/accounting/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/accounting/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-management-practices",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/agricultural-management-practices/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/agricultural-management-practices/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/agricultural-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/agricultural-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/agricultural-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/agricultural-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-technology",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/agricultural-technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/agricultural-technology/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/business-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/business-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/business-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/business-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Civil Services",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/civil-technology/paper-1-civil-services-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/civil-technology/paper-1-civil-services-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Construction",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/civil-technology/paper-1-construction-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/civil-technology/paper-1-construction-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Woodworking",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/civil-technology/paper-1-woodworking-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/civil-technology/paper-1-woodworking-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/economics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/economics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/economics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/economics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Digital Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/electrical-technology/paper-1-digital-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/electrical-technology/paper-1-digital-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/electrical-technology/paper-1-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/electrical-technology/paper-1-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Power Systems",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/electrical-technology/paper-1-power-systems-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/electrical-technology/paper-1-power-systems-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/egd/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/egd/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/egd/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/egd/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/english-hl/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/english-hl/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/english-hl/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/english-hl/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/english-hl/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/english-hl/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/history/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/history/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/history/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/history/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/mathematical-literacy/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/mathematical-literacy/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/mathematical-literacy/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/mathematical-literacy/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Automotive",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/mechanical-technology/paper-1-automotive-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/mechanical-technology/paper-1-automotive-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Fitting and Machining",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/mechanical-technology/paper-1-fitting-and-machining-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/mechanical-technology/paper-1-fitting-and-machining-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Welding and Metalwork",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/mechanical-technology/paper-1-welding-and-metalwork-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/mechanical-technology/paper-1-welding-and-metalwork-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/religion-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/religion-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/religion-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/religion-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/technical-mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/technical-mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/technical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/technical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/technical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/technical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "tourism",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/tourism/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/tourism/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/accounting/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/accounting/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/accounting/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/accounting/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-management-practices",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/agricultural-management-practices/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/agricultural-management-practices/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/agricultural-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/agricultural-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/agricultural-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/agricultural-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-technology",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/agricultural-technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/agricultural-technology/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/business-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/business-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/business-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/business-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Civil Services",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/civil-technology/paper-1-civil-services-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/civil-technology/paper-1-civil-services-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Construction",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/civil-technology/paper-1-construction-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/civil-technology/paper-1-construction-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Woodworking",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/civil-technology/paper-1-woodworking-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/civil-technology/paper-1-woodworking-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/economics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/economics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/economics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/economics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Digital Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/electrical-technology/paper-1-digital-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/electrical-technology/paper-1-digital-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/electrical-technology/paper-1-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/electrical-technology/paper-1-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Power Systems",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/electrical-technology/paper-1-power-systems-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/electrical-technology/paper-1-power-systems-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/egd/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/egd/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/egd/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/egd/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/english-hl/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/english-hl/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/english-hl/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/english-hl/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/english-hl/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/english-hl/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/history/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/history/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/history/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/history/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/mathematical-literacy/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/mathematical-literacy/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/mathematical-literacy/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/mathematical-literacy/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Automotive",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/mechanical-technology/paper-1-automotive-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/mechanical-technology/paper-1-automotive-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Fitting and Machining",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/mechanical-technology/paper-1-fitting-and-machining-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/mechanical-technology/paper-1-fitting-and-machining-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Welding and Metalwork",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/mechanical-technology/paper-1-welding-and-metalwork-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/mechanical-technology/paper-1-welding-and-metalwork-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/religion-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/religion-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/religion-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/religion-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/technical-mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/technical-mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/technical-mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/technical-mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/technical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/technical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/technical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/technical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "tourism",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/tourism/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/tourism/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/accounting/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/accounting/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "accounting",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/accounting/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/accounting/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-management-practices",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/agricultural-management-practices/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/agricultural-management-practices/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/agricultural-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/agricultural-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-sciences",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/agricultural-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/agricultural-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "agricultural-technology",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/agricultural-technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/agricultural-technology/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/business-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/business-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "business-studies",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/business-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/business-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Civil Services",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/civil-technology/paper-1-civil-services-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/civil-technology/paper-1-civil-services-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Construction",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/civil-technology/paper-1-construction-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/civil-technology/paper-1-construction-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "civil-technology",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Woodworking",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/civil-technology/paper-1-woodworking-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/civil-technology/paper-1-woodworking-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/economics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/economics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "economics",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/economics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/economics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Digital Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/electrical-technology/paper-1-digital-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/electrical-technology/paper-1-digital-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Electronics",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/electrical-technology/paper-1-electronics-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/electrical-technology/paper-1-electronics-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "electrical-technology",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Power Systems",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/electrical-technology/paper-1-power-systems-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/electrical-technology/paper-1-power-systems-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/egd/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/egd/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "egd",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/egd/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/egd/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/english-hl/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/english-hl/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "english-hl",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/english-hl/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/english-hl/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/history/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/history/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "history",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/history/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/history/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/mathematical-literacy/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/mathematical-literacy/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mathematical-literacy",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/mathematical-literacy/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/mathematical-literacy/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Automotive",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/mechanical-technology/paper-1-automotive-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/mechanical-technology/paper-1-automotive-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Fitting and Machining",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/mechanical-technology/paper-1-fitting-and-machining-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/mechanical-technology/paper-1-fitting-and-machining-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "mechanical-technology",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Welding and Metalwork",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/mechanical-technology/paper-1-welding-and-metalwork-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/mechanical-technology/paper-1-welding-and-metalwork-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/religion-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/religion-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "religion-studies",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/religion-studies/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/religion-studies/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/technical-mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/technical-mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-mathematics",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/technical-mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/technical-mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/technical-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/technical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "technical-sciences",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/technical-sciences/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/technical-sciences/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "tourism",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/tourism/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/tourism/paper-1-memo.pdf"
     }
   ]
 }
