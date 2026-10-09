@@ -5290,6 +5290,256 @@
       "label": "Paper 1",
       "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/tourism/paper-1-question-paper.pdf",
       "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/tourism/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "ems",
+      "year": 2022,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2022-november/ems/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2022-november/ems/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "ems",
+      "year": 2022,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2022-november/ems/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2022-november/ems/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "english",
+      "year": 2022,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "First Additional Language",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2022-november/english/paper-1-first-additional-language-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2022-november/english/paper-1-first-additional-language-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "english",
+      "year": 2022,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Home Language",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2022-november/english/paper-1-home-language-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2022-november/english/paper-1-home-language-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "mathematics",
+      "year": 2022,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2022-november/mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2022-november/mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "creative-arts",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Dance",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/creative-arts/paper-1-dance-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/creative-arts/paper-1-dance-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "creative-arts",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Drama",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/creative-arts/paper-1-drama-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/creative-arts/paper-1-drama-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "creative-arts",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Music",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/creative-arts/paper-1-music-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/creative-arts/paper-1-music-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "creative-arts",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 4,
+      "label": "Visual Arts",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/creative-arts/paper-1-visual-arts-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/creative-arts/paper-1-visual-arts-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "ems",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/ems/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/ems/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "ems",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/ems/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/ems/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "english",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "First Additional Language",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/english/paper-1-first-additional-language-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/english/paper-1-first-additional-language-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "english",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Home Language",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/english/paper-1-home-language-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/english/paper-1-home-language-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "life-orientation",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/life-orientation/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/life-orientation/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "mathematics",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "mathematics",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/mathematics/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/mathematics/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "natural-sciences",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/natural-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/natural-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "social-sciences",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Geography",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/social-sciences/paper-1-geography-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/social-sciences/paper-1-geography-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "social-sciences",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "History",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/social-sciences/paper-1-history-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/social-sciences/paper-1-history-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "technology",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2023-november/technology/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "ems",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2024-november/ems/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2024-november/ems/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "english",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "First Additional Language",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2024-november/english/paper-1-first-additional-language-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2024-november/english/paper-1-first-additional-language-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "english",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Home Language",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2024-november/english/paper-1-home-language-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2024-november/english/paper-1-home-language-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "mathematics",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2024-november/mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2024-november/mathematics/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "natural-sciences",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2024-november/natural-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2024-november/natural-sciences/paper-1-memo.pdf"
     }
   ]
 }
