@@ -5553,6 +5553,26 @@
     },
     {
       "levelId": "grade-10",
+      "subjectId": "geography",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/geography/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/geography/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-10",
+      "subjectId": "life-sciences",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/life-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/life-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-10",
       "subjectId": "mathematical-literacy",
       "year": 2026,
       "session": "Practice",
