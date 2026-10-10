@@ -5573,6 +5573,16 @@
     },
     {
       "levelId": "grade-10",
+      "subjectId": "agricultural-technology",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/agricultural-technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/agricultural-technology/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-10",
       "subjectId": "business-studies",
       "year": 2026,
       "session": "Practice",
@@ -5670,6 +5680,16 @@
       "label": "Paper 1",
       "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/religion-studies/paper-1-question-paper.pdf",
       "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/religion-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-10",
+      "subjectId": "technical-mathematics",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/technical-mathematics/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/technical-mathematics/paper-1-memo.pdf"
     },
     {
       "levelId": "grade-10",
