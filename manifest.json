@@ -5640,6 +5640,26 @@
       "label": "Paper 1",
       "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/physical-sciences/paper-1-question-paper.pdf",
       "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/physical-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-10",
+      "subjectId": "religion-studies",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/religion-studies/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/religion-studies/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-10",
+      "subjectId": "tourism",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/tourism/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/tourism/paper-1-memo.pdf"
     }
   ]
 }
