@@ -5553,6 +5553,26 @@
     },
     {
       "levelId": "grade-10",
+      "subjectId": "agricultural-management-practices",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/agricultural-management-practices/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/agricultural-management-practices/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-10",
+      "subjectId": "agricultural-sciences",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/agricultural-sciences/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/agricultural-sciences/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-10",
       "subjectId": "business-studies",
       "year": 2026,
       "session": "Practice",
