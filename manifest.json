@@ -5543,6 +5543,26 @@
     },
     {
       "levelId": "grade-10",
+      "subjectId": "english-fal",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/english-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/english-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-10",
+      "subjectId": "mathematical-literacy",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/mathematical-literacy/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-10/2026-practice/mathematical-literacy/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-10",
       "subjectId": "mathematics",
       "year": 2026,
       "session": "Practice",
