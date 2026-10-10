@@ -5763,6 +5763,26 @@
     },
     {
       "levelId": "grade-11",
+      "subjectId": "civil-technology",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2026-practice/civil-technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2026-practice/civil-technology/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-11",
+      "subjectId": "electrical-technology",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2026-practice/electrical-technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2026-practice/electrical-technology/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-11",
       "subjectId": "english-fal",
       "year": 2026,
       "session": "Practice",
@@ -5770,6 +5790,16 @@
       "label": "Paper 1",
       "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2026-practice/english-fal/paper-1-question-paper.pdf",
       "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2026-practice/english-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-11",
+      "subjectId": "mechanical-technology",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2026-practice/mechanical-technology/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2026-practice/mechanical-technology/paper-1-memo.pdf"
     },
     {
       "levelId": "grade-11",
