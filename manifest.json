@@ -6000,6 +6000,186 @@
       "label": "Practice exam 3",
       "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-7/2026-practice/technology/paper-1-practice-exam-3-question-paper.pdf",
       "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-7/2026-practice/technology/paper-1-practice-exam-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "ems",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Practice exam 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/ems/paper-1-practice-exam-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/ems/paper-1-practice-exam-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "ems",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 2,
+      "label": "Practice exam 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/ems/paper-1-practice-exam-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/ems/paper-1-practice-exam-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "ems",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 3,
+      "label": "Practice exam 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/ems/paper-1-practice-exam-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/ems/paper-1-practice-exam-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "english",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/english/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/english/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "english",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/english/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/english/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "english",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/english/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/english/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "mathematics",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Practice exam 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/mathematics/paper-1-practice-exam-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/mathematics/paper-1-practice-exam-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "mathematics",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 2,
+      "label": "Practice exam 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/mathematics/paper-1-practice-exam-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/mathematics/paper-1-practice-exam-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "mathematics",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 3,
+      "label": "Practice exam 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/mathematics/paper-1-practice-exam-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/mathematics/paper-1-practice-exam-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "natural-sciences",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Practice exam 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/natural-sciences/paper-1-practice-exam-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/natural-sciences/paper-1-practice-exam-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "natural-sciences",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 2,
+      "label": "Practice exam 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/natural-sciences/paper-1-practice-exam-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/natural-sciences/paper-1-practice-exam-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "natural-sciences",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 3,
+      "label": "Practice exam 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/natural-sciences/paper-1-practice-exam-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/natural-sciences/paper-1-practice-exam-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "social-sciences",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Practice exam 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/social-sciences/paper-1-practice-exam-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/social-sciences/paper-1-practice-exam-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "social-sciences",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 2,
+      "label": "Practice exam 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/social-sciences/paper-1-practice-exam-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/social-sciences/paper-1-practice-exam-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "social-sciences",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 3,
+      "label": "Practice exam 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/social-sciences/paper-1-practice-exam-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/social-sciences/paper-1-practice-exam-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "technology",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Practice exam 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/technology/paper-1-practice-exam-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/technology/paper-1-practice-exam-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "technology",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 2,
+      "label": "Practice exam 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/technology/paper-1-practice-exam-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/technology/paper-1-practice-exam-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "technology",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 3,
+      "label": "Practice exam 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/technology/paper-1-practice-exam-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/technology/paper-1-practice-exam-3-memo.pdf"
     }
   ]
 }
