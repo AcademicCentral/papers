@@ -5823,6 +5823,36 @@
     },
     {
       "levelId": "grade-7",
+      "subjectId": "afrikaans-fal",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-7/2026-practice/afrikaans-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-7/2026-practice/afrikaans-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-7",
+      "subjectId": "afrikaans-fal",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-7/2026-practice/afrikaans-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-7/2026-practice/afrikaans-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-7",
+      "subjectId": "afrikaans-fal",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-7/2026-practice/afrikaans-fal/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-7/2026-practice/afrikaans-fal/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-7",
       "subjectId": "creative-arts",
       "year": 2026,
       "session": "Practice",
@@ -6063,6 +6093,36 @@
     },
     {
       "levelId": "grade-8",
+      "subjectId": "afrikaans-fal",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/afrikaans-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/afrikaans-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "afrikaans-fal",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/afrikaans-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/afrikaans-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
+      "subjectId": "afrikaans-fal",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/afrikaans-fal/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/afrikaans-fal/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-8",
       "subjectId": "creative-arts",
       "year": 2026,
       "session": "Practice",
@@ -6300,6 +6360,36 @@
       "label": "Practice exam 3",
       "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/technology/paper-1-practice-exam-3-question-paper.pdf",
       "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-8/2026-practice/technology/paper-1-practice-exam-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "afrikaans-fal",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2026-practice/afrikaans-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2026-practice/afrikaans-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "afrikaans-fal",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2026-practice/afrikaans-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2026-practice/afrikaans-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-9",
+      "subjectId": "afrikaans-fal",
+      "year": 2026,
+      "session": "Practice",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2026-practice/afrikaans-fal/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-9/2026-practice/afrikaans-fal/paper-3-memo.pdf"
     },
     {
       "levelId": "grade-9",
