@@ -683,6 +683,46 @@
     },
     {
       "levelId": "grade-11",
+      "subjectId": "afrikaans-fal",
+      "year": 2017,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2017-november/afrikaans-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2017-november/afrikaans-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-11",
+      "subjectId": "afrikaans-fal",
+      "year": 2019,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2019-november/afrikaans-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2019-november/afrikaans-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-11",
+      "subjectId": "afrikaans-fal",
+      "year": 2019,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2019-november/afrikaans-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2019-november/afrikaans-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-11",
+      "subjectId": "afrikaans-fal",
+      "year": 2019,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2019-november/afrikaans-fal/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-11/2019-november/afrikaans-fal/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-11",
       "subjectId": "accounting",
       "year": 2022,
       "session": "November",
@@ -4293,6 +4333,36 @@
     },
     {
       "levelId": "grade-12",
+      "subjectId": "afrikaans-fal",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/afrikaans-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/afrikaans-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "afrikaans-fal",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/afrikaans-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/afrikaans-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "afrikaans-fal",
+      "year": 2023,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/afrikaans-fal/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2023-november/afrikaans-fal/paper-3-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
       "subjectId": "agricultural-management-practices",
       "year": 2023,
       "session": "November",
@@ -4620,6 +4690,36 @@
       "label": "Paper 2",
       "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/accounting/paper-2-question-paper.pdf",
       "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/accounting/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "afrikaans-fal",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/afrikaans-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/afrikaans-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "afrikaans-fal",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/afrikaans-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/afrikaans-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "afrikaans-fal",
+      "year": 2024,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/afrikaans-fal/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2024-november/afrikaans-fal/paper-3-memo.pdf"
     },
     {
       "levelId": "grade-12",
@@ -4970,6 +5070,36 @@
       "label": "Paper 2",
       "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/accounting/paper-2-question-paper.pdf",
       "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/accounting/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "afrikaans-fal",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 1,
+      "label": "Paper 1",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/afrikaans-fal/paper-1-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/afrikaans-fal/paper-1-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "afrikaans-fal",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 2,
+      "label": "Paper 2",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/afrikaans-fal/paper-2-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/afrikaans-fal/paper-2-memo.pdf"
+    },
+    {
+      "levelId": "grade-12",
+      "subjectId": "afrikaans-fal",
+      "year": 2025,
+      "session": "November",
+      "paperNumber": 3,
+      "label": "Paper 3",
+      "questionUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/afrikaans-fal/paper-3-question-paper.pdf",
+      "memoUrl": "https://raw.githubusercontent.com/AcademicCentral/papers/main/grade-12/2025-november/afrikaans-fal/paper-3-memo.pdf"
     },
     {
       "levelId": "grade-12",
